@@ -6,7 +6,7 @@
 - 📫 Pode me contatar por [Whatsapp](https://api.whatsapp.com/send?phone=5592985403771&text=Ol%C3%A1,%20estou%20a%20procura%20de%20um%20programador.)
 
 <div>
-<a href="https://www.google.com.br">
+<a href="https://www.linkedin.com/in/luiz-felipe-gusmao">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipefel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipefel&layout=compact&langs_count=16&theme=dark"/>
 <div>
